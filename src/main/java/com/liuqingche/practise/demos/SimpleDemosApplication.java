@@ -1,4 +1,4 @@
-package com.huan.practise.demos;
+package com.liuqingche.practise.demos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

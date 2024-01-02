@@ -54,7 +54,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.huan.practise.demos.SimpleDemosApplication</mainClass>
+                    <mainClass>com.liuqingche.practise.demos.SimpleDemosApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

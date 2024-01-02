@@ -1,4 +1,4 @@
-package com.huan.practise.demos;
+package com.liuqingche.practise.demos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
